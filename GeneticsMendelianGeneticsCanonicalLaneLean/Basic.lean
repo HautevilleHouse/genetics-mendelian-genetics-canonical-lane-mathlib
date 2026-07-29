@@ -1,0 +1,2 @@
+import GeneticsMendelianGeneticsCanonicalLaneLean.GateLemmas
+import GeneticsMendelianGeneticsCanonicalLaneLean.FinalTheorem
